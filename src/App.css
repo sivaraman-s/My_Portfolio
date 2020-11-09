@@ -1,0 +1,38 @@
+.nav-content {
+    background-color:#ABA6BF;
+}
+
+.foot-content{
+    background-color:#A4A4BF;
+}
+
+tr:nth-child(even){
+    background-color:  #f2f2f2;
+}
+th{
+    background-color: #8F715B;
+    color: aliceblue;
+    text-align: center;
+}
+table,td{
+    color:black;
+    border-bottom: brown;
+}
+table,th,td{
+    border: 1px solid brown;
+}
+.topics{
+    color: #093145;
+    font-size: "100%" !important;
+}
+.card{
+    background-color: aliceblue !important;
+   
+}
+.card-font{
+    font-size: large;
+    font-weight: 500;
+}
+.about-content{
+   color:""
+}
